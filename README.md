@@ -1,5 +1,7 @@
 # DA-Projects
-Data Analytics Projects
+Data Analytics Projects 
+
+The projects listing and details
 
 The projects contain skills:
 - Data Transformation in Spreadsheet, SQL, R, Python
